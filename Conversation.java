@@ -1,4 +1,5 @@
-
+// You should **not** update any call signatures in this file
+// only modify the body of each function
 class Conversation implements ConversationRequirements {
 
   // Attributes 
